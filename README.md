@@ -5,3 +5,4 @@
  # Used Keras as the framework 
  # Backend-Tensorflow (Python)
  # Not fully trained on 50 epochs due to too much time consumption 
+# Used ipython cygwin shell for executing the code on Amazon P2.xlarge instance
